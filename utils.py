@@ -17,11 +17,11 @@ def plot_loss_acc(model_history, validation=None):
         plt.subplot(1,2,1)
         plt.plot(model_history.history['val_loss'])
         plt.xlabel('Epoch')
-        plt.title('Loss on train set')
+        plt.title('Loss on validation set')
         plt.subplot(1,2,2)
         plt.plot(model_history.history['val_acc'])
         plt.xlabel('Epoch')
-        plt.title('Accuracy on train set')
+        plt.title('Accuracy on validation set')
         fig = plt.gcf()
         fig.set_size_inches(15,5)
         
