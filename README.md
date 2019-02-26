@@ -3,9 +3,9 @@ Neural Network introduction at MISiS (Moscow)
 
 ## Preparing for the Tutorials
 
- - follow the steps below to setup the Ipython notebook
- - run it up to and including the line starting with the `!wget` command. This will download the data
- - Make sure this worked and report any troubles
+ - Follow the steps below to setup the Ipython notebook
+ - Run the first lines, including the line starting with the `!wget` command and the `!git clone` command. This will download the data and allow you to import utils.py in the notebook.
+ - Make sure this worked and report if any troubles arise
  
 If you prefer, you can also run it locally or on the machine of your choice. Feel free to download the notebooks, data and setup the right environment (there is an anaconda environment included in the repo).
 
