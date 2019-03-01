@@ -1,6 +1,12 @@
 # MISiS2019ANN
 Neural Network introduction at MISiS (Moscow)
 
+**UPDATE**: the **solutions** to the notebooks have been uploaded.
+
+In case of any problems, contact us via:
+ - Jonas Eschle: jonas.eschle@uzh.ch
+ - Davide Lancierini: davide.lancierini@uzh.ch
+
 ## Preparing for the Tutorials
 
  - Follow the steps below to setup the Ipython notebook
@@ -13,7 +19,7 @@ If you prefer, you can also run it locally or on the machine of your choice. Fee
 
 In order to run the tutorials, it is recommended to use [Google Colab](https://colab.research.google.com/).
 Open the link (if needed log yourself in) and select the tab "Github". There, search for "zurich-ml/MISiS2019ANN"
-and two Ipython Notebooks should show up. Click on them and the notebook will open.
+and four Ipython Notebooks should show up. One is from the lecture and with "_solution" is the same notebook "with a solution". Click on them and the notebook will open.
 
 ### Using a GPU
 
@@ -21,7 +27,7 @@ In order to speed up training, we can even use GPUs! Select on "Runtime"->"Chang
 
 ## Data
 
-The data is stored in a cloud and can be accessed via:
+The data is stored in a cloud and can be accessed via (alternative downloads also available, check out the notebooks):
 
  - https://drive.switch.ch/index.php/s/8vpC3MgmpohQ5tN/download for the first tutorial on feedforward networks
  - https://drive.switch.ch/index.php/s/xcLDFKJAyyZGmfD/download for the second tutorial on convolutional networks
