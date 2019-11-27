@@ -6,6 +6,7 @@ Neural Network introduction at MISiS (Moscow)
 In case of any problems, contact us via:
  - Jonas Eschle: jonas.eschle@uzh.ch
  - Davide Lancierini: davide.lancierini@uzh.ch
+ - Martina Ferrillo: martina.ferrillo@physik.uzh.ch
 
 ## Preparing for the Tutorials
 
