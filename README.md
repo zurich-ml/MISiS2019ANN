@@ -1,10 +1,8 @@
 # MISiS2019ANN
 Neural Network introduction at MISiS (Moscow)
 
-**UPDATE**: the **solutions** to the notebooks have been uploaded.
-
 In case of any problems, contact us via:
- - Jonas Eschle: jonas.eschle@uzh.ch
+ - Jonas Eschle: jonas.eschle@physik.uzh.ch
  - Davide Lancierini: davide.lancierini@uzh.ch
  - Martina Ferrillo: martina.ferrillo@physik.uzh.ch
 
@@ -30,7 +28,7 @@ In order to speed up training, we can even use GPUs! Select on "Runtime"->"Chang
 
 The data is stored in a cloud and can be accessed via (alternative downloads also available, check out the notebooks):
 
- - https://drive.switch.ch/index.php/s/8vpC3MgmpohQ5tN/download for the first tutorial on feedforward networks
- - https://drive.switch.ch/index.php/s/xcLDFKJAyyZGmfD/download for the second tutorial on convolutional networks
+ - https://drive.switch.ch/index.php/s/IMBA5xaIFRFTEzy for the first tutorial on feedforward networks
+ - https://drive.switch.ch/index.php/s/xWOhPfX8oLaArGi for the second tutorial on convolutional networks
  
 You don't have to download the data directly but it's done automatically in the notebook.
